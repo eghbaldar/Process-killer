@@ -1,0 +1,9 @@
+E:\10_Tools\Tools\Tools\obj\x86\Debug\Tools.Form1.resources
+E:\10_Tools\Tools\Tools\obj\x86\Debug\Tools.Resources.resources
+E:\10_Tools\Tools\Tools\obj\x86\Debug\Tools.vbproj.GenerateResource.Cache
+E:\10_Tools\Tools\Tools\bin\Debug\Tools.exe
+E:\10_Tools\Tools\Tools\bin\Debug\Tools.pdb
+E:\10_Tools\Tools\Tools\bin\Debug\Tools.xml
+E:\10_Tools\Tools\Tools\obj\x86\Debug\Tools.exe
+E:\10_Tools\Tools\Tools\obj\x86\Debug\Tools.xml
+E:\10_Tools\Tools\Tools\obj\x86\Debug\Tools.pdb
